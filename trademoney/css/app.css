@@ -1,0 +1,22 @@
+.header-top{
+    display: block;
+}
+
+
+@media (max-width: 767px) {
+    .header-top{
+        background-color: #eee;
+    }
+}
+
+@media (min-width: 768px) {
+    .header-top{
+        background-color: #aaa;
+    }
+}
+
+@media (min-width: 992px) {
+}
+
+@media (min-width: 1200px) {
+}
