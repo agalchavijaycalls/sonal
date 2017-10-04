@@ -2,16 +2,145 @@
     display: block;
 }
 
+.header-nav-top{
+    float: right;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.page-content{
+
+}
 
 @media (max-width: 767px) {
     .header-top{
         background-color: #eee;
     }
+
+    .header-nav-top{
+        float: right;
+        margin-top: 0px;
+        margin-left: 5px;
+    }
+
+    .page-content{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        margin-top: 90px;+
+    }
 }
 
 @media (min-width: 768px) {
     .header-top{
-        background-color: #aaa;
+        background-color: #ddd;
+    }
+    .page-content{
+
     }
 }
 
